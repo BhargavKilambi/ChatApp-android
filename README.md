@@ -1,4 +1,4 @@
 # ChatApp-android
-Chat application for android
+Hybrid Chat application
 
   * Built using ionic, angularJs and firebase
